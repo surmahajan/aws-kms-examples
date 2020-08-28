@@ -1,0 +1,6 @@
+decrypted-version.txt
+target/
+dependency-reduced-pom.xml
+.settings/
+.project
+.classpath
